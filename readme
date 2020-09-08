@@ -1,0 +1,16 @@
+step 1 : install selenium module in python using pip function (i.e pip install selenium )
+step 2 : check your browser version from the help section of browser and then download the driver from @selenium.dev
+         for ex :if you are using google chrome then go to top rightsection of browser and click on 3 dots and in that there is help option 
+         simply click on it and check the chrome version otherwise incorrect version of chrome might not work this code.
+         
+step 3 : open the zip file and extract the driver and copy the path of the driver where you extracted .
+step 4 : paste the path in the code and make changes in the namelists.
+
+
+NOTE : namelist is case sensitive and will not accept any special character like emojis(i.e bmp file) be aware of that .
+
+step 5: and run the code afetr doing the above things , your code will definitely run ..
+
+
+
+THANKS IN ADVANCE 
