@@ -31,7 +31,7 @@ while (1):
         # Check if there is any unread message
         unreadMsgs = False
 
-        getlist = driver.find_elements_by_xpath("//span[@class ='_31gEB']")
+        getlist = driver.find_elements_by_xpath("//span[@class ='VOr2j']")
         if (len(getlist)):
             unreadMsgs = True
 
