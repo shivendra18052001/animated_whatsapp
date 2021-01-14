@@ -16,7 +16,7 @@ text2 = ", HE IS BUSY WITH SOMETHING RIGHT NOW PLEASE LEAVE YOUR MESSAGE HE WILL
 time.sleep(10)
 
 # List of names to which you want to send the message
-namelist = ["Sista", "Maa","Psit Shivam Verma" , "Psit Shivkant Pandey","Psit Shivam Pathak","Namish Jaitley"]
+namelist = ["name 1","name 2","name 3","name 4","name 5","name 6",]
 while (1):
     for name in namelist:
         # Click on the search-bar
